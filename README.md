@@ -1,3 +1,3 @@
-# deep-learning-neural-networks-study_research
+# Deep-learning-study/algorithms and etc
 
-this repository serves as place where I would study,research and put code for problems arising in deep learning and also application of deep learning.
+This repository serves as place where I would document my studies in Deep learning.
